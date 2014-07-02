@@ -1,0 +1,16 @@
+{
+  "name": "polymer-explore",
+  "version": "0.0.0",
+  "authors": [
+    "iq72 <liukyzy008@gmail.com>"
+  ],
+  "description": "explore polymer",
+  "main": "polymer",
+  "keywords": [
+    "polymer"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "polymer": "Polymer/polymer#~0.3.3"
+  }
+}
